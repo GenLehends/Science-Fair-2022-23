@@ -1,0 +1,157 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:fillViewport="false">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Our Home and Native Land: Significant agricultural soils across Canada, 23 January 2020, https://agriculture.canada.ca/en/agricultural-production/soil-and-land/our-home-and-native-land-significant-agricultural-soils-across-canada. Accessed 23 January 2023.+\n"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="“Autumnal Equinox 2022: First Day of Fall | Facts, Folklore  More.” The Old Farmer's Almanac, https://www.almanac.com/content/first-day-fall-autumnal-equinox. Accessed 23 January 2023.+\n"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Barton, Ruth. “Know Your Garden Soil: How to Make the Most of Your Soil Type.” Eartheasy, 6 April 2022, https://learn.eartheasy.com/articles/know-your-garden-soil-how-to-make-the-most-of-your-soil-type/. Accessed 23 January 2023.+\n"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="“Basil 101: Growing Tips + 28 Recipes.” Love and Lemons, https://www.loveandlemons.com/basil/. Accessed 23 January 2023.+\n"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Bikos, Konstantin. “Winter Solstice – When Is Winter 2022 / 2023?” Time and Date, 21 December 2022, https://www.timeanddate.com/calendar/winter-solstice.html. Accessed 23 January 2023.+\n"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="“Brocoli.” Mouvement J'aime les fruits et légumes, https://www.jaimefruitsetlegumes.ca/fr/aliments/brocoli/. Accessed 23 January 2023.+\n"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+        <TextView
+            android:id="@+id/textView7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="“Bunker Sand | Perfect for Golf Courses.” Aggregates Direct, https://aggregatesdirect.co.uk/product/bunker-sand/. Accessed 23 January 2023.+\n"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+        <TextView
+            android:id="@+id/textView8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="“Carrot | alimentarium.” Alimentarium, https://www.alimentarium.org/en/fact-sheet/carrot. Accessed 23 January 2023.+\n"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+        <TextView
+            android:id="@+id/textView9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="“cropgrouptables.” CodeofFederalRegulations, https://www.govinfo.gov/content/pkg/CFR-2017-title40-vol26/xml/CFR-2017-title40-vol26-sec180-41.xml.+\n"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+        <TextView
+            android:id="@+id/textView10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Davidson, Katey, and Kaitlyn Berkheiser. “5 Interesting Types of Lettuce.” Healthline, 10 October 2019, https://www.healthline.com/nutrition/types-of-lettuce. Accessed 23 January 2023.+\n"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+        <TextView
+            android:id="@+id/textView11"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="“Forest  Tundra Soils.” Soils of Canada, https://soilsofcanada.ca/soil-classification/forest--tundra-soils.php. Accessed 23 January 2023.+\n"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+        <TextView
+            android:id="@+id/textView12"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="“Garden Loam Soil: What Exactly Is Good Garden Loam?” Plant Care Today, https://plantcaretoday.com/what-is-good-garden-loam.html. Accessed 23 January 2023.+\n"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+        <TextView
+            android:id="@+id/textView13"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Grover, Alex. “Sand, Silt, Or Clay In Your Soil? - Blog.” Nature's Seed, 21 September 2017, https://www.naturesseed.com/blog/sand-silt-clay/. Accessed 23 January 2023.+\n"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="hi+\n"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+        <TextView
+            android:id="@+id/textView15"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="“Growing On Chalk.” Landed - forest gardening, https://landed.weebly.com/growing-on-chalk.html. Accessed 23 January 2023.+\n"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+        <TextView
+            android:id="@+id/textView16"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Gunnars, Kris, and Peggy Pletcher. “Spinach 101: Nutrition Facts and Health Benefits.” Healthline, 14 May 2019, https://www.healthline.com/nutrition/foods/spinach. Accessed 23 January 2023.+\n"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+        <TextView
+            android:id="@+id/textView17"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="“How to Grow Root Vegetables in Your Garden - 2023 - MasterClass.” Masterclass, 7 June 2021, https://www.masterclass.com/articles/how-to-grow-root-vegetables-in-your-garden. Accessed 23 January 2023.+\n"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+        <TextView
+            android:id="@+id/textView18"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="“Kale.” Wikipedia, https://en.wikipedia.org/wiki/Kale. Accessed 23 January 2023.+\n"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+        <TextView
+            android:id="@+id/textView19"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Kammermeyer, Kent. “What Your Mama Never Told You About Brassicas.” Pennington Seed, https://www.pennington.com/all-products/wildlife/resources/what-your-mama-never-told-you-about-brassicas. Accessed 23 January 2023.+\n"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+        <TextView
+            android:id="@+id/textView20"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="“Long White Icicle Radish Seeds.” Growseed, https://www.growseed.co.uk/vegetables/radish-seeds/long-white-icicle.html. Accessed 23 January 2023.+\n"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+        <TextView
+            android:id="@+id/textView21"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Planting tomato in a container or in the garden | BOTANIX Garden centre.” Botanix, https://www.botanix.com/en-ca/botanix-specialists-blog/plant-out-tomatoes-ground-container. Accessed 23 January 2023.+\n"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <TextView
+            android:id="@+id/textView23"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="“Potato | alimentarium.” Alimentarium, https://www.alimentarium.org/en/fact-sheet/potato. Accessed 23 January 2023.+\n"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+        <TextView
+            android:id="@+id/textView24"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="“AndroidAppDevelopment.” YouTube, 10 August 2022, https://www.google.com/search?q=4+hour+java+android+studiobiw=1280bih=616tbm=vidsxsrf=AJOqlzVF7mdzpC6hY_UjFF3KZ5kNnFL6rw%3A1674583582313ei=Hh7QY4XNEvCh5NoPsNmVoAYved=0ahUKEwiF1Mf85eD8AhXwEFkFHbBsBWQQ4dUDCA0uact=5oq=4+hour+java+android+studiogs_lcp. Accessed 24 January 2023.
++\n"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+
+    </LinearLayout>
+</ScrollView>
